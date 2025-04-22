@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Satyam 👋
 
 # 💫 About Me:
 🎓 A curious and creative BTech CSE student at CUSAT, Kerala  <br>💻 I love building cool things with code — from smart AI chatbots to web apps and robots!  <br>🧠 Exploring AI, ML, Web Dev, IoT, and everything that makes tech *mag
